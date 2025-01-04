@@ -147,6 +147,7 @@ namespace Session2Demo
             //typeB.Fun02(); 
             #endregion
 
+
             //Binding
             #region What is Binding
             ////What is Binding
